@@ -13,6 +13,7 @@ I have build this Plant Template with my core HTML CSS skills
 
 You can check out the full version here: [Plant Home Page By Hitesh](https://plant-homepage-by-hitesh.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8425b6f7-9f7d-4f79-a508-fca98762eaa3/deploy-status)](https://app.netlify.com/sites/plant-homepage-by-hitesh/deploys)
 
 
 ## What i have learned from this project
