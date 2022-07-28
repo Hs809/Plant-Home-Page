@@ -11,7 +11,7 @@ I have build this Plant Template with my core HTML CSS skills
 ![image](./created.png)
 
 
-You can check out the full version here: [Product Design Landing Page By Hitesh](https://product-landing-page-by-hitesh.netlify.app/)
+You can check out the full version here: [Plant Home Page By Hitesh](https://plant-homepage-by-hitesh.netlify.app/)
 
 
 
